@@ -12,6 +12,8 @@ Actualmente se a trabajo este tema de monitoreo utilizando herramientas de Siste
 
 ![Imagen del paisaje cafetalero de la Zona de los Santos](https://www.nacion.com/resizer/v2/OUTSF5I3ABHFXEFJCAB57FLRZU.jpg?smart=true&auth=1d1d834dc513111caeda357fd899dd52a3b58878815ba9a52cbac9a33fef9396&width=1440&height=960)
 
+<img src="https://www.nacion.com/resizer/v2/OUTSF5I3ABHFXEFJCAB57FLRZU.jpg?smart=true&auth=1d1d834dc513111caeda357fd899dd52a3b58878815ba9a52cbac9a33fef9396&width=1440&height=960" alt="Imagen del paisaje cafetalero de la Zona de los Santos" width="500">
+
 
 ### Descripción de los datos y principales variables.
 Con base en metodologías utilizadas en el monitoreo de cambios en el paisaje, el análisis se apoya en información geoespacial de acceso público y en registros institucionales sobre producción cafetalera. Dentro de las consideraciones para lograr un resultado más preciso, se necesita trabajar con datos de mayor resolución espacial; en este caso, imágenes Sentinel-2 con bandas de 10 m de resolución. Sin embargo, estos datos están disponibles a partir de mediados de 2015, por lo que esta investigación se realizará en dos periodos: de 2015 a 2019 y de 2020 a 2025.
