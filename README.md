@@ -25,6 +25,9 @@ Con base en metodologías utilizadas en el monitoreo de cambios en el paisaje, e
 ###  Soluciones o preguntas que se espera contestar con los datos.
 
 ¿Cuáles son los tipos de cobertura y uso del suelo predominantes en la Zona de los Santos, y cómo se distribuyen espacialmente entre los cantones de Tarrazú, Dota y León Cortés Castro?
+
 ¿Cómo ha cambiado la extensión y configuración de los remanentes de bosque entre los periodos 2015–2019 y 2020–2025?
-¿Qué grado de fragmentación presentan los parches boscosos remanentes, medido a través de métricas del paisaje (p. ej., tamaño de parche, distancia al vecino más cercano, índice de forma)?
+
+¿Qué grado de fragmentación presentan los parches boscosos remanentes, medido a través de métricas del paisaje (tamaño de parche, distancia al vecino más cercano)?
+
 ¿Existe conectividad funcional entre los fragmentos de bosque, o predominan parches aislados como resultado de la expansión del monocultivo cafetalero?
