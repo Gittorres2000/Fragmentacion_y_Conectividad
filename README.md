@@ -9,9 +9,6 @@ Estudios previos documentan, entre 1984 y 2014, una expansión sostenida de la c
 
 Actualmente se a trabajo este tema de monitoreo utilizando herramientas de Sistema de información Geografíca y teledetección. Vancutsem et al. (2021), por ejemplo, generaron un mapeo continuo (wall-to-wall) de los cambios en la cobertura de los bosques tropicales húmedos entre enero de 1990 y diciembre de 2019, utilizando imágenes Landsat con una resolución espacial de 30 x 30 m (0.09 ha por píxel). De manera similar, pero con imágenes de mayor resolución espacial, Xia et al. (2020) utilizaron imágenes QuickBird con un tamaño de celda de 2.44 m, correspondientes a cuatro fechas entre 2006 y 2015, para obtener datos de uso del suelo del área de estudio mediante clasificación orientada a objetos en el software eCognition Developer 8.7, el cual agrupa píxeles con características espectrales, de textura y forma similares en unidades homogéneas antes de clasificarlas, lo que resulta especialmente útil para imágenes de alta resolución donde la clasificación píxel por píxel tiende a generar mayor margen de error.
 
-
-![Imagen del paisaje cafetalero de la Zona de los Santos](https://www.nacion.com/resizer/v2/OUTSF5I3ABHFXEFJCAB57FLRZU.jpg?smart=true&auth=1d1d834dc513111caeda357fd899dd52a3b58878815ba9a52cbac9a33fef9396&width=1440&height=960)
-
 <img src="https://www.nacion.com/resizer/v2/OUTSF5I3ABHFXEFJCAB57FLRZU.jpg?smart=true&auth=1d1d834dc513111caeda357fd899dd52a3b58878815ba9a52cbac9a33fef9396&width=1440&height=960" alt="Imagen del paisaje cafetalero de la Zona de los Santos" width="500">
 
 
@@ -23,7 +20,7 @@ Con base en metodologías utilizadas en el monitoreo de cambios en el paisaje, e
 * **Datos del [Tropical Moist Forest Explorer](https://forobs.jrc.ec.europa.eu/TMF/explorer):** Este conjunto de datos aporta mapas de cobertura boscosa tropical húmeda a 30 m de resolución, útiles para identificar y caracterizar procesos de *deforestación* (pérdida de bosque) y *degradación* (perturbaciones temporales como tala selectiva o eventos climáticos extremos) en los remanentes boscosos en la Zona de los Santos, así como su posible recuperación o regeneración a lo largo del periodo de estudio.
 * **Capas de división administrativa cantonal**, obtenidas del [Sistema Nacional de Información Territorial (SNIT)](https://www.snitcr.go.cr/), utilizadas para delimitar los cantones de Tarrazú, Dota y León Cortés Castro que conforman la Zona de los Santos, y como base cartográfica de referencia para acotar el área de estudio.
 
-![Imagenes Sentinel de cambios en la cobertura](Sentinel.jpg) 
+<img src="Sentinel.jpg" alt="Imágenes Sentinel de cambios en la cobertura" width="500">
 
 ##  Soluciones o preguntas que se espera contestar con los datos.
 
