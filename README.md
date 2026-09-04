@@ -21,7 +21,7 @@ Con base en metodologías utilizadas en el monitoreo de cambios en el paisaje, e
 * **Datos del [Tropical Moist Forest Explorer](https://forobs.jrc.ec.europa.eu/TMF/explorer):** Este conjunto de datos aporta mapas de cobertura boscosa tropical húmeda a 30 m de resolución, útiles para identificar y caracterizar procesos de *deforestación* (pérdida de bosque) y *degradación* (perturbaciones temporales como tala selectiva o eventos climáticos extremos) en los remanentes boscosos en la Zona de los Santos, así como su posible recuperación o regeneración a lo largo del periodo de estudio.
 * **Capas de división administrativa cantonal**, obtenidas del [Sistema Nacional de Información Territorial (SNIT)](https://www.snitcr.go.cr/), utilizadas para delimitar los cantones de Tarrazú, Dota y León Cortés Castro que conforman la Zona de los Santos, y como base cartográfica de referencia para acotar el área de estudio.
 
-![Imagenes Sentinel de cambios en la cobertura](Sentinel.jpg)
+![Imagenes Sentinel de cambios en la cobertura](Sentinel.jpg) 
 
 ##  Soluciones o preguntas que se espera contestar con los datos.
 
