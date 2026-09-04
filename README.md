@@ -7,6 +7,11 @@ Este proyecto se centra en la Zona de los Santos, un territorio montañoso del s
 
 Estudios previos documentan, entre 1984 y 2014, una expansión sostenida de la caficultura y un aumento de la cobertura forestal total, particularmente en el cantón de Dota, pero también advierten un mayor aislamiento de los remanentes boscosos como consecuencia del avance del monocultivo cafetalero, especialmente en zonas bajas de mayor aptitud agrícola (Arias Salazar & Corrales León, 2017; Consejo Territorial de Desarrollo Rural Los Santos, 2016).
 
+![Imagen del paisaje cafetalero de la Zona de los Santos](https://www.nacion.com/resizer/v2/OUTSF5I3ABHFXEFJCAB57FLRZU.jpg?smart=true&auth=1d1d834dc513111caeda357fd899dd52a3b58878815ba9a52cbac9a33fef9396&width=1440&height=960)
+
+ 
+![DARK SOULS CARTAGO](darksouls.jpg)
+
 ### Descripción de los datos y principales variables.
 El análisis se apoya en información geoespacial de acceso público y en registros institucionales sobre producción cafetalera. Las principales fuentes de datos contempladas son:
 
